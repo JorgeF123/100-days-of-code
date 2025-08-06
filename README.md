@@ -22,9 +22,10 @@ A command-line Python script that:
 ## ✅ Day 2: Odd/Even Number Sorter
 
 A Python script that:
-- Asks the user how many numbers to input
-- Sorts the numbers into even and odd lists
-- Displays both lists and counts
+- Asks how many numbers the user wants to enter
+- Validates input to make sure all numbers are greater than 0
+- Separates even and odd numbers
+- Displays counts and clean formatted output
 
 ### Example Features:
 - Uses `for` loops and `if-else` conditionals

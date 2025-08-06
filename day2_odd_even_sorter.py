@@ -2,6 +2,13 @@
 count = int(input("How many numbers will you enter?: "))
 print()
 
+# Validate that the count is greater than 0
+while count <= 0:
+
+    print('ERROR MUST ENTER NUMBER GREATER THEN 0')
+    count = int(input("How many numbers will you enter?: "))
+    print()
+
 # Initialize lists to store even and odd numbers
 even_list = []
 odd_list = []
@@ -15,6 +22,13 @@ for i in range(count):
 
     # Ask for a number with the current input number label
     user_numbers = int(input(f'Enter number {i + 1}: '))
+
+    # Validate that the number is greater than 0
+    while user_numbers <= 0:
+
+        print('ERROR MUST ENTER NUMBER GREATER THEN 0')
+        user_numbers = int(input(f'Enter number {i + 1}: '))
+        print()
     
     # Check if the number is even
     if user_numbers % 2 == 0:
