@@ -20,7 +20,7 @@ def main():
     print('Number Guessing Game')
     print('')
     print('----------------------------------------------------------------')
-    print('easy mode: 20 tries | Medium mode: 10 tries | Hard mode: 5 tries')
+    print('Easy mode: 20 tries | Medium mode: 10 tries | Hard mode: 5 tries')
     print('----------------------------------------------------------------')
     print('')
     print('Enter 1 for easy mode ')
