@@ -23,7 +23,7 @@ def main():
     print('Easy mode: 20 tries | Medium mode: 10 tries | Hard mode: 5 tries')
     print('----------------------------------------------------------------')
     print('')
-    print('Enter 1 for easy mode ')
+    print('Enter 1 for Easy mode ')
     print('Enter 2 for Medium mode ')
     print('Enter 3 for Hard mode ')
 

@@ -59,3 +59,28 @@ A Python game where the player guesses a random number between 1 and 100, with t
 
 ### Example Output
 ![Day 3 Output](images/day3_output.png)
+
+---
+
+## ✅ Day 4: Rock, Paper, Scissors Game
+
+A command-line Rock, Paper, Scissors game with a running scoreboard that tracks results across multiple sessions during one run.
+
+### Example Features:
+-Menu system:
+  -Play a round
+  -View scoreboard
+  -Quit the game
+
+-Input validation for both menu choices and game rounds
+-Accepts shorthand (r, p, s) and full-word inputs (rock, paper, scissors)
+-Random CPU choice from a set of valid options
+-Emoji-based display for player and CPU picks
+-Running scoreboard that tracks total wins, losses, and ties
+-Allows multiple rounds in a single game session
+
+### 📂 Script File
+[day4_rock_paper_scissors_game.py](day4_rock_paper_scissors_game.py)
+
+### Example Output
+![Day 4 Output](images/day4_output.png)
