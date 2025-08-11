@@ -84,3 +84,24 @@ A command-line Rock, Paper, Scissors game with a running scoreboard that tracks 
 
 ### Example Output
 ![Day 4 Output](images/day4_output.png)
+
+---
+
+## ✅ Day 5: Binary Search Guessing Game
+
+A Python console game where the computer guesses a number the player is thinking of between 1 and 100 using the binary search algorithm.
+
+### Example Features:
+- Uses binary search to efficiently guess the number in ≤ 7 tries
+- Asks the player for feedback after each guess:
+  - **h** → higher
+  - **l** → lower
+  - **c** → correct
+- Validates feedback input (keeps asking until valid)
+- Detects and handles inconsistent feedback
+
+### 📂 Script File
+[day5_binary_search_guessing_game.py](day5_binary_search_guessing_game.py)
+
+### Example Output
+![Day 5 Output](images/day5_output.png)
