@@ -105,3 +105,21 @@ A Python console game where the computer guesses a number the player is thinking
 
 ### Example Output
 ![Day 5 Output](images/day5_output.png)
+
+---
+
+## ✅ Day 6: Two Sum (Two-Pointer)
+
+Finds a pair of numbers in a sorted list that add up to a target using the two-pointer technique
+
+### Example Features:
+- Starts with left and right pointers and moves inward
+- O(n) time once the list is sorted
+- Prints the first matching pair
+- Handles the “no pair” case cleanly
+
+### 📂 Script File
+[day6_two_sum_two_pointer.py](day6_two_sum_two_pointer.py)
+
+### Example Output
+![Day 6 Output](images/day6_output.png)
