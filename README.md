@@ -123,3 +123,21 @@ Finds a pair of numbers in a sorted list that add up to a target using the two-p
 
 ### Example Output
 ![Day 6 Output](images/day6_output.png)
+
+---
+
+## ✅ Day 7: Bubble Sort Implementation
+
+A Python script that implements the Bubble Sort algorithm to sort a list of numbers in ascending order.
+
+### Example Features:
+- Uses a while loop that repeats until no swaps are needed
+- Swaps adjacent elements if they’re out of order
+- Automatically stops once the list is fully sorted
+- Demonstrates the logic behind one of the simplest sorting algorithms
+
+### 📂 Script File
+[day7_bubble_sort.py](day7_bubble_sort.py)
+
+### Example Output
+![Day 7 Output](images/day7_output.png)
