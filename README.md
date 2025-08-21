@@ -141,3 +141,24 @@ A Python script that implements the Bubble Sort algorithm to sort a list of numb
 
 ### Example Output
 ![Day 7 Output](images/day7_output.png)
+
+## ✅ Day 8: Collatz Sequence Explorer
+
+A Python script that generates the Collatz sequence (also known as the 3n + 1 problem) for a user-entered positive integer.
+
+The sequence repeatedly applies the rules:
+- If the number is even → divide it by 2
+- If the number is odd → multiply by 3 and add 1
+- It continues until the sequence reaches 1.
+
+## Example Features:
+- Validates user input to ensure a positive integer
+- Builds and displays the full sequence from the starting number to 1
+- Counts and outputs the total number of steps taken
+- Demonstrates a famous unsolved problem in mathematics in a simple program
+
+### 📂 Script File
+[day8_collatz_sequence.py](day8_collatz_sequence.py)
+
+### Example Output
+![Day 8 Output](images/day8_output.png)
