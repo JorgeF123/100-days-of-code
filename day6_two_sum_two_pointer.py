@@ -1,6 +1,10 @@
 arr_left = [1, 2, 4, 6, 8, 11, 15]
 
+
+
+
 target = 10
+
 
 
 print(arr_left)

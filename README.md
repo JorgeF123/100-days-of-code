@@ -162,3 +162,20 @@ The sequence repeatedly applies the rules:
 
 ### Example Output
 ![Day 8 Output](images/day8_output.png)
+
+## ✅ Day 9: Word Counter
+
+A Python script that analyzes a user-entered sentence or paragraph and counts how many times each word appears. The program removes punctuation, converts all words to lowercase, and then builds a dictionary mapping each unique word to the number of times it occurs.
+
+## Example Features:
+- Removes punctuation so `"dog,"` and `"dog"` are treated the same
+- Converts text to lowercase to avoid duplicates like `"The"` vs `"the"`
+- Splits the text into individual words
+- Builds a dictionary where keys = words and values = counts
+- Displays the dictionary of word frequencies
+
+### 📂 Script File
+[day9_word_counter.py](day9_word_counter.py)
+
+### Example Output
+![Day 9 Output](images/day9_output.png)
