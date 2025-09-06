@@ -1,4 +1,4 @@
-# 100 Days of Code – Python
+# 100 Days of Code
 
 Documenting my progress through the #100DaysOfCode challenge.
 
@@ -220,3 +220,28 @@ n! = n \times (n-1)! \quad \text{with } 0! = 1
 
 ### Example Output
 ![Day 10 Output](day10-19/outputs/day10_output.png)
+
+---
+
+## ✅ Day 11: Number Statistics (Min, Max, Sum, Average)
+
+A Java program that asks the user to enter a list of numbers and then calculates key statistics:  
+- The **biggest number**  
+- The **smallest number**  
+- The **sum** of all numbers  
+- The **average** of the numbers  
+
+The program validates the number of inputs (must be greater than 0), stores the values in an array, and uses a loop to compute the results.
+
+## Example Features:
+- Validates input: array size must be positive  
+- Stores numbers in an array for processing  
+- Finds the maximum and minimum values  
+- Calculates the sum and average of all numbers  
+- Displays the results in a clear format  
+
+### 📂 Script File
+[day11_numberStatistics.java](day10-19/day11_numberStatistics.java)
+
+### Example Output
+![Day 11 Output](day10-19/outputs/day11_output.png)
