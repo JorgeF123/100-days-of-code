@@ -16,6 +16,7 @@ Documenting my progress through the #100DaysOfCode challenge.
 - [Day 8: Collatz Sequence](#-day-8-collatz-sequence)
 - [Day 9: Word Counter](#-day-9-word-counter)
 - [Day 10: Factorial Calculator (Recursion)](#-day-10-factorial-calculator-recursion)
+- [Day 11: Number Statistics](#-day-11-number-statistics-min-max-sum-average)
 
 ---
 
