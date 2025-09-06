@@ -4,6 +4,21 @@ Documenting my progress through the #100DaysOfCode challenge.
 
 ---
 
+## 📌 Table of Contents
+
+- [Day 1: Multiplication Table](#-day-1-multiplication-table)
+- [Day 2: Odd/Even Sorter](#-day-2-oddeven-sorter)
+- [Day 3: Number Guessing Game](#-day-3-number-guessing-game)
+- [Day 4: Rock Paper Scissors](#-day-4-rock-paper-scissors)
+- [Day 5: Binary Search Guessing Game](#-day-5-binary-search-guessing-game)
+- [Day 6: Two Sum (Two Pointer)](#-day-6-two-sum-two-pointer)
+- [Day 7: Bubble Sort](#-day-7-bubble-sort)
+- [Day 8: Collatz Sequence](#-day-8-collatz-sequence)
+- [Day 9: Word Counter](#-day-9-word-counter)
+- [Day 10: Factorial Calculator (Recursion)](#-day-10-factorial-calculator-recursion)
+
+---
+
 ## ✅ Day 1: Multiplication Table Generator
 
 A command-line Python script that:
@@ -12,10 +27,10 @@ A command-line Python script that:
 - Uses nested loops and formatted string output
 
 ### 📂 Script File
-[day1_multiplication_table.py](day1_multiplication_table.py)
+[day1_multiplication_table.py](day01-09/day1_multiplication_table.py)
 
 ### Example Output for N = 12
-![Day 1 Output](images/day1_output.png)
+![Day 1 Output](imagesDay01-09/day1_output.png)
 
 ---
 
@@ -33,10 +48,10 @@ A Python script that:
 - Outputs formatted summary at the end
 
 ### 📂 Script File
-[day2_odd_even_sorter.py](day2_odd_even_sorter.py)
+[day2_odd_even_sorter.py](day01-09/day2_odd_even_sorter.py)
 
 ### Example Output
-![Day 2 Output](images/day2_output.png)
+![Day 2 Output](imagesDay01-09/day2_output.png)
 
 ---
 
@@ -55,10 +70,10 @@ A Python game where the player guesses a random number between 1 and 100, with t
 - Displays win or loss messages
 
 ### 📂 Script File
-[day3_number_guessing_game.py](day3_number_guessing_game.py)
+[day3_number_guessing_game.py](day01-09/day3_number_guessing_game.py)
 
 ### Example Output
-![Day 3 Output](images/day3_output.png)
+![Day 3 Output](imagesDay01-09/day3_output.png)
 
 ---
 
@@ -80,10 +95,10 @@ A command-line Rock, Paper, Scissors game with a running scoreboard that tracks 
 -Allows multiple rounds in a single game session
 
 ### 📂 Script File
-[day4_rock_paper_scissors_game.py](day4_rock_paper_scissors_game.py)
+[day4_rock_paper_scissors_game.py](day01-09/day4_rock_paper_scissors_game.py)
 
 ### Example Output
-![Day 4 Output](images/day4_output.png)
+![Day 4 Output](imagesDay01-09/day4_output.png)
 
 ---
 
@@ -101,10 +116,10 @@ A Python console game where the computer guesses a number the player is thinking
 - Detects and handles inconsistent feedback
 
 ### 📂 Script File
-[day5_binary_search_guessing_game.py](day5_binary_search_guessing_game.py)
+[day5_binary_search_guessing_game.py](day01-09/day5_binary_search_guessing_game.py)
 
 ### Example Output
-![Day 5 Output](images/day5_output.png)
+![Day 5 Output](imagesDay01-09/day5_output.png)
 
 ---
 
@@ -119,10 +134,10 @@ Finds a pair of numbers in a sorted list that add up to a target using the two-p
 - Handles the “no pair” case cleanly
 
 ### 📂 Script File
-[day6_two_sum_two_pointer.py](day6_two_sum_two_pointer.py)
+[day6_two_sum_two_pointer.py](day01-09/day6_two_sum_two_pointer.py)
 
 ### Example Output
-![Day 6 Output](images/day6_output.png)
+![Day 6 Output](imagesDay01-09/day6_output.png)
 
 ---
 
@@ -137,10 +152,12 @@ A Python script that implements the Bubble Sort algorithm to sort a list of numb
 - Demonstrates the logic behind one of the simplest sorting algorithms
 
 ### 📂 Script File
-[day7_bubble_sort.py](day7_bubble_sort.py)
+[day7_bubble_sort.py](day01-09/day7_bubble_sort.py)
 
 ### Example Output
-![Day 7 Output](images/day7_output.png)
+![Day 7 Output](imagesDay01-09/day7_output.png)
+
+---
 
 ## ✅ Day 8: Collatz Sequence Explorer
 
@@ -158,10 +175,12 @@ The sequence repeatedly applies the rules:
 - Demonstrates a famous unsolved problem in mathematics in a simple program
 
 ### 📂 Script File
-[day8_collatz_sequence.py](day8_collatz_sequence.py)
+[day8_collatz_sequence.py](day01-09/day8_collatz_sequence.py)
 
 ### Example Output
-![Day 8 Output](images/day8_output.png)
+![Day 8 Output](imagesDay01-09/day8_output.png)
+
+---
 
 ## ✅ Day 9: Word Counter
 
@@ -175,10 +194,12 @@ A Python script that analyzes a user-entered sentence or paragraph and counts ho
 - Displays the dictionary of word frequencies
 
 ### 📂 Script File
-[day9_word_counter.py](day9_word_counter.py)
+[day9_word_counter.py](day01-09/day9_word_counter.py)
 
 ### Example Output
-![Day 9 Output](images/day9_output.png)
+![Day 9 Output](imagesDay01-09/day9_output.png)
+
+---
 
 ## ✅ Day 10: Factorial Calculator (Recursion)
 
@@ -195,7 +216,7 @@ n! = n \times (n-1)! \quad \text{with } 0! = 1
 - Displays the factorial result in a clean format
 
 ### 📂 Script File
-[day10_factorial.py](day10_factorial.py)
+[day10_factorial.py](day10-19/_factorial.py)
 
 ### Example Output
-![Day 10 Output](images/day10_output.png)
+![Day 10 Output](imagesDay10-19/day10_output.png)
