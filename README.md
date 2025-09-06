@@ -73,7 +73,7 @@ A Python game where the player guesses a random number between 1 and 100, with t
 [day3_number_guessing_game.py](day01-09/day3_number_guessing_game.py)
 
 ### Example Output
-![Day 3 Output](Day01-09/outputs/day3_output.png)
+![Day 3 Output](day01-09/outputs/day3_output.png)
 
 ---
 
@@ -98,7 +98,7 @@ A command-line Rock, Paper, Scissors game with a running scoreboard that tracks 
 [day4_rock_paper_scissors_game.py](day01-09/day4_rock_paper_scissors_game.py)
 
 ### Example Output
-![Day 4 Output](Day01-09/outputs/day4_output.png)
+![Day 4 Output](day01-09/outputs/day4_output.png)
 
 ---
 
@@ -119,7 +119,7 @@ A Python console game where the computer guesses a number the player is thinking
 [day5_binary_search_guessing_game.py](day01-09/day5_binary_search_guessing_game.py)
 
 ### Example Output
-![Day 5 Output](Day01-09/outputs/day5_output.png)
+![Day 5 Output](day01-09/outputs/day5_output.png)
 
 ---
 
@@ -137,7 +137,7 @@ Finds a pair of numbers in a sorted list that add up to a target using the two-p
 [day6_two_sum_two_pointer.py](day01-09/day6_two_sum_two_pointer.py)
 
 ### Example Output
-![Day 6 Output](Day01-09/outputs/day6_output.png)
+![Day 6 Output](day01-09/outputs/day6_output.png)
 
 ---
 
@@ -155,7 +155,7 @@ A Python script that implements the Bubble Sort algorithm to sort a list of numb
 [day7_bubble_sort.py](day01-09/day7_bubble_sort.py)
 
 ### Example Output
-![Day 7 Output](Day01-09/outputs/day7_output.png)
+![Day 7 Output](day01-09/outputs/day7_output.png)
 
 ---
 
@@ -178,7 +178,7 @@ The sequence repeatedly applies the rules:
 [day8_collatz_sequence.py](day01-09/day8_collatz_sequence.py)
 
 ### Example Output
-![Day 8 Output](Day01-09/outputs/day8_output.png)
+![Day 8 Output](day01-09/outputs/day8_output.png)
 
 ---
 
@@ -197,7 +197,7 @@ A Python script that analyzes a user-entered sentence or paragraph and counts ho
 [day9_word_counter.py](day01-09/day9_word_counter.py)
 
 ### Example Output
-![Day 9 Output](Day01-09/outputs/day9_output.png)
+![Day 9 Output](day01-09/outputs/day9_output.png)
 
 ---
 
@@ -219,4 +219,4 @@ n! = n \times (n-1)! \quad \text{with } 0! = 1
 [day10_factorial.py](day10-19/_factorial.py)
 
 ### Example Output
-![Day 10 Output](Day10-19/outputs/day10_output.png)
+![Day 10 Output](day10-19/outputs/day10_output.png)
