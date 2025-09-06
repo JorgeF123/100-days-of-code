@@ -179,3 +179,23 @@ A Python script that analyzes a user-entered sentence or paragraph and counts ho
 
 ### Example Output
 ![Day 9 Output](images/day9_output.png)
+
+## ✅ Day 10: Factorial Calculator (Recursion)
+
+A Python script that calculates the factorial of a user-entered non-negative integer using recursion. The program validates input to ensure only whole numbers ≥ 0 are accepted. Once valid input is given, the script computes the factorial based on the formula:
+
+\[
+n! = n \times (n-1)! \quad \text{with } 0! = 1
+\]
+
+## Example Features:
+- Validates input: only non-negative integers are allowed
+- Rejects invalid input like negative numbers or strings
+- Uses a recursive function for factorial calculation
+- Displays the factorial result in a clean format
+
+### 📂 Script File
+[day10_factorial.py](day10_factorial.py)
+
+### Example Output
+![Day 10 Output](images/day10_output.png)
