@@ -246,3 +246,27 @@ The program validates the number of inputs (must be greater than 0), stores the 
 
 ### Example Output
 ![Day 11 Output](day10-19/outputs/day11_output.png)
+
+---
+
+## ✅ Day 12: Quadratic Equation Solver
+
+A Python program that solves quadratic equations of the form: 
+- Asks the user to enter coefficients **a, b, c**  
+- Calculates the **discriminant**  
+- Applies the **quadratic formula** to find the roots  
+- Handles both **real** and **complex** solutions  
+- Outputs results in **simplified form** (fractions for real numbers, i for imaginary)  
+
+## Example Features:
+- Validates input: checks if `a = 0` (not quadratic)  
+- Uses fractions for clean, simplified real roots  
+- Replaces Python’s `j` with math-style `i` for complex roots  
+- Ensures results are always shown in **order** (`x1 < x2`)  
+- Clean and math-friendly output  
+
+### 📂 Script File
+[day12_quadratic_solver.py](day10-19/day12_quadratic_solver.py)
+
+### Example Output
+![Day 12 Output](day10-19/outputs/day12_output.png)
