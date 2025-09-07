@@ -17,6 +17,8 @@ Documenting my progress through the #100DaysOfCode challenge.
 - [Day 9: Word Counter](#-day-9-word-counter)
 - [Day 10: Factorial Calculator (Recursion)](#-day-10-factorial-calculator-recursion)
 - [Day 11: Number Statistics](#-day-11-number-statistics-min-max-sum-average)
+- [Day 12: Quadratic Equation Solver](#-day-12-quadratic-equation-solver)
+
 
 ---
 
@@ -266,7 +268,7 @@ A Python program that solves quadratic equations of the form:
 - Clean and math-friendly output  
 
 ### 📂 Script File
-[day12_quadratic_solver.py](day10-19/day12_quadratic_solver.py)
+[day12_quadraticSolver.py](day10-19/day12_quadraticSolver.py)
 
 ### Example Output
 ![Day 12 Output](day10-19/outputs/day12_output.png)
