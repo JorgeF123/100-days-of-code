@@ -284,7 +284,7 @@ A Java project with two files:
 
 ## Example Features:
 - Encapsulates attributes rank and suit
-- Provides a toString() method to display cards in human-readable form  
+- Provides a toString() method to display cards in readable form  
 - Implements a compareTo() method to compare cards by suit and rank  
 - Demonstrates object creation and method usage in the driver program  
 
