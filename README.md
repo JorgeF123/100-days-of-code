@@ -18,6 +18,7 @@ Documenting my progress through the #100DaysOfCode challenge.
 - [Day 10: Factorial Calculator (Recursion)](#-day-10-factorial-calculator-recursion)
 - [Day 11: Number Statistics](#-day-11-number-statistics-min-max-sum-average)
 - [Day 12: Quadratic Equation Solver](#-day-12-quadratic-equation-solver)
+- [Day 13: Card Class & Driver Program](#-day-13-card-class--driver-program-java)
 
 
 ---
@@ -272,3 +273,24 @@ A Python program that solves quadratic equations of the form:
 
 ### Example Output
 ![Day 12 Output](day10-19/outputs/day12_output.png)
+
+---
+
+## ✅ Day 13: Card Class & Driver Program (Java)
+
+A Java project with two files:  
+- **Card.java** → Defines a playing card with rank and suit  
+- **Main.java** → Driver program to create and compare cards  
+
+## Example Features:
+- Encapsulates attributes rank and suit
+- Provides a toString() method to display cards in human-readable form  
+- Implements a compareTo() method to compare cards by suit and rank  
+- Demonstrates object creation and method usage in the driver program  
+
+### 📂 Project Files
+[Card.java](day10-19/day13_class_driver/Card.java)  
+[Main.java](day10-19/day13_class_driver/Main.java)  
+
+### Example Output
+![Day 13 Output](day10-19/outputs/day13_output.png)
