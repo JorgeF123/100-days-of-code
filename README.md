@@ -19,6 +19,7 @@ Documenting my progress through the #100DaysOfCode challenge.
 - [Day 11: Number Statistics](#-day-11-number-statistics-min-max-sum-average)
 - [Day 12: Quadratic Equation Solver](#-day-12-quadratic-equation-solver)
 - [Day 13: Card Class & Driver Program](#-day-13-card-class--driver-program-java)
+- [Day 14: TicTacToe Game](#-day-14-tictactoe-game-java)
 
 
 ---
