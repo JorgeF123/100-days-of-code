@@ -294,3 +294,24 @@ A Java project with two files:
 
 ### Example Output
 ![Day 13 Output](day10-19/outputs/day13_output.png)
+
+---
+
+## ✅ Day 14: TicTacToe Game (Java)
+
+A Java console-based TicTacToe game with user vs. computer.  
+The game is played on a **3×3 grid** (represented internally as a 5×5 char array with separators).  
+
+## Example Features:
+- User plays as X, computer plays as*O
+- Input validation: only accepts numbers 1–9 for moves  
+- Computer generates random moves with varied messages  
+- Checks for win conditions across rows, columns, and diagonals  
+- Detects draw when the board is full  
+- Displays a clear index guide before the game starts  
+
+### 📂 Project Files
+[TicTacToe.java](day10-19/day14_TicTacToe/TicTacToe.java)  
+
+### Example Output
+![Day 14 Output](day10-19/outputs/day14_output.png)
