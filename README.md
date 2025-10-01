@@ -20,6 +20,8 @@ Documenting my progress through the #100DaysOfCode challenge.
 - [Day 12: Quadratic Equation Solver](#-day-12-quadratic-equation-solver)
 - [Day 13: Card Class & Driver Program](#-day-13-card-class--driver-program-java)
 - [Day 14: TicTacToe Game](#-day-14-tictactoe-game-java)
+- [Day 15: Space Shooter Game](#-day-15-space-shooter-game-java-swing)
+
 
 
 ---
@@ -316,3 +318,25 @@ The game is played on a **3×3 grid** (represented internally as a 5×5 char arr
 
 ### Example Output
 ![Day 14 Output](day10-19/outputs/day14_output.png)
+
+---
+
+## ✅ Day 15: Space Shooter Game (Java Swing)
+
+A simple 2D arcade shooter** built with Java Swing.  
+Control your rocket, shoot bullets, and destroy enemies before they hit you or reach the bottom of the screen!  
+
+## Example Features:
+- Player rocket movement  
+- Bullet shooting with cooldown  
+- Enemies spawn at random positions with sprite images  
+- Bullet vs Enemy collision detection  
+- Game Over when enemy touches the player or bottom of the screen  
+- Smooth difficulty ramp (enemies speed up gradually)  
+- Fixed 700×700 game window (non-resizable)  
+
+### 📂 Project Files
+[day15_SpaceShooter/](day15_SpaceShooter)
+
+### Example Output
+![Day 15 Output](outputs/day15_output.png)
