@@ -1,3 +1,4 @@
+package day11_numberStatistics;
 
 // Import the Scanner class from java.util package to read user input
 import java.util.Scanner; 

@@ -272,10 +272,10 @@ A Python program that solves quadratic equations of the form:
 - Clean and math-friendly output  
 
 ### 📂 Script File
-[day12_quadraticSolver.py](day10-19/day12_quadraticSolver.py)
+[day12_quadraticSolver.py](day10-19/day12_quadraticSolver/day12_quadraticSolver.py)
 
 ### Example Output
-![Day 12 Output](day10-19/day12_quadraticSolver/outputs/day12_output.png)
+![Day 12 Output](day10-19/outputs/day12_output.png)
 
 ---
 
