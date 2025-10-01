@@ -223,7 +223,7 @@ n! = n \times (n-1)! \quad \text{with } 0! = 1
 - Displays the factorial result in a clean format
 
 ### 📂 Script File
-[day10_factorial.py](day10-19/_factorial.py)
+[day10_factorial.py](day10-19/day10_factorial/_factorial.py)
 
 ### Example Output
 ![Day 10 Output](day10-19/outputs/day10_output.png)
@@ -248,7 +248,7 @@ The program validates the number of inputs (must be greater than 0), stores the 
 - Displays the results in a clear format  
 
 ### 📂 Script File
-[day11_numberStatistics.java](day10-19/day11_numberStatistics.java)
+[day11_numberStatistics.java](day10-19/day11_numberStatistics/day11_numberStatistics.java)
 
 ### Example Output
 ![Day 11 Output](day10-19/outputs/day11_output.png)
@@ -275,7 +275,7 @@ A Python program that solves quadratic equations of the form:
 [day12_quadraticSolver.py](day10-19/day12_quadraticSolver.py)
 
 ### Example Output
-![Day 12 Output](day10-19/outputs/day12_output.png)
+![Day 12 Output](day10-19/day12_quadraticSolver/outputs/day12_output.png)
 
 ---
 
