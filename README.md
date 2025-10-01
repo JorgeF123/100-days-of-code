@@ -336,7 +336,7 @@ Control your rocket, shoot bullets, and destroy enemies before they hit you or r
 - Fixed 700×700 game window (non-resizable)  
 
 ### 📂 Project Files
-[day15_SpaceShooter/](day15_SpaceShooter)
+[day15_SpaceShooter/](day10-19/day15_SpaceShooter)
 
 ### Example Output
-![Day 15 Output](outputs/day15_output.png)
+![Day 15 Output](day10-19/outputs/day15_output.png)
