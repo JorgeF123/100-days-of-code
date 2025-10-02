@@ -314,7 +314,8 @@ The game is played on a **3×3 grid** (represented internally as a 5×5 char arr
 - Displays a clear index guide before the game starts  
 
 ### 📂 Project Files
-[TicTacToe.java](day10-19/day14_TicTacToe/TicTacToe.java)  
+[TicTacToe.java](day10-19/day14_TicTacToe/TicTacToe.java)
+[Standalone TicTacToe Repo](https://github.com/JorgeF123/TicTacToe)   
 
 ### Example Output
 ![Day 14 Output](day10-19/outputs/day14_output.png)
@@ -337,6 +338,7 @@ Control your rocket, shoot bullets, and destroy enemies before they hit you or r
 
 ### 📂 Project Files
 [day15_SpaceShooter/](day10-19/day15_SpaceShooter)
+[Standalone SpaceShooter Repo](https://github.com/JorgeF123/SpaceShooter)
 
 ### Example Output
 ![Day 15 Output](day10-19/outputs/day15_output.png)
