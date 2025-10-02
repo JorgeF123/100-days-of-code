@@ -338,7 +338,7 @@ Control your rocket, shoot bullets, and destroy enemies before they hit you or r
 
 ### 📂 Project Files
 - [day15_SpaceShooter/](day10-19/day15_SpaceShooter)
-- [-Standalone SpaceShooter Repo](https://github.com/JorgeF123/SpaceShooter)
+- [Standalone SpaceShooter Repo](https://github.com/JorgeF123/SpaceShooter)
 
 ### Example Output
 ![Day 15 Output](day10-19/outputs/day15_output.png)
