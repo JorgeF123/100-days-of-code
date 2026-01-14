@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jorgeflores/100-days-of-code/C/helloWorldIn'
+relocations:     []
+...

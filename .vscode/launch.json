@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TicTacToe",
+      "request": "launch",
+      "mainClass": "JavaProjects.TicTacToe",
+      "projectName": "100-days-of-code_7d862fec"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToe",
+      "request": "launch",
+      "mainClass": "java.TicTacToe",
+      "projectName": "100-days-of-code_7d862fec"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "java.cards.Main",
+      "projectName": "100-days-of-code_7d862fec"
+    },
+    {
+      "type": "java",
+      "name": "numberStatistics",
+      "request": "launch",
+      "mainClass": "java.numberStatistics",
+      "projectName": "100-days-of-code_7d862fec"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jorgeflores/100-days-of-code/C/.vscode",
+      "program": "/Users/jorgeflores/100-days-of-code/C/.vscode/build/Debug/outDebug"
+    }
+  ]
+}
